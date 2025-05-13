@@ -1,0 +1,2 @@
+rootProject.name = "StudentSearch"
+include ':app' 
