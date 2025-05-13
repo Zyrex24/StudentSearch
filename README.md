@@ -26,7 +26,7 @@ A modern Android application for searching and displaying student information, b
 ### Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/SchoolDeg.git
+   git clone https://github.com/Zyrex24/StudentSearch.git
    ```
 2. **Open in Android Studio:**
    - Select `Open an existing project` and choose the project directory.
