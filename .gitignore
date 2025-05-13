@@ -1,0 +1,4 @@
+# Ignore Cursor and related files
+.cursor/
+memory-bank/
+*cursor* 
