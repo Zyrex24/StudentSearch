@@ -1,9 +1,0 @@
-# Ignore Cursor and related files
-.cursor/
-memory-bank/
-*cursor*
-
-# Ignore isolation rules, .gitignore, and README.md
-.cursor/rules/isolation_rules/
-.gitignore
-README.md 
